@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import PopularMoviePage from "./Pages/PopularMoviePage";
 import HighRatedPage from "./Pages/HighRatedPage";
 import UpcomingMoviePage from "./Pages/UpcomingMoviePage";
