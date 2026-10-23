@@ -4,43 +4,53 @@ This is a movie web application built with Vite and Tailwind CSS. The applicatio
 Features
 
 ## Live Demo
-You can check out the live version of the project [click here](https://movie-app-by-rohit.vercel.app/).
+
+You can check out the live version of the project [click here](https://rahulkardile07.github.io/movie-website-application/).
 
 ## Technologies Used
+
 - React
 - vite
 - JavaScript (ES6+)
 - CSS (Tailwind CSS)
 
 ## Getting Started
+
 Prerequisites
 To run the project locally, ensure you have the following installed:
+
 - Node.js
 
 ## Installation
+
 To get a local copy of the project up and running, follow these steps:
 
-* Clone the repository:
+- Clone the repository:
 
-   ```bash
-   git clone https://github.com/Rohit16002/movie-app.git
-* Navigate to the project directory:
+  ```bash
+  git clone https://github.com/rahulkardile07/movie-website-application
+  ```
+
+- Navigate to the project directory:
   ```bash
    cd movie-app
-* Install the dependencies:
+  ```
+- Install the dependencies:
   ```bash
    npm install
-* Usage:
+  ```
+- Usage:
   ```bash
    npm run dev
+  ```
 
 ## Features
 
-* Movie Listings: Displays a list of popular movies.
-* Search Functionality: Allows users to search for their favorite movies.
-* Movie Details: Provides information such as title, synopsis, release date, and ratings.
-* Responsive Design: Optimized for all screen sizes using Tailwind CSS.
-* Fast Performance: Built with Vite for quick build and hot reloading.
+- Movie Listings: Displays a list of popular movies.
+- Search Functionality: Allows users to search for their favorite movies.
+- Movie Details: Provides information such as title, synopsis, release date, and ratings.
+- Responsive Design: Optimized for all screen sizes using Tailwind CSS.
+- Fast Performance: Built with Vite for quick build and hot reloading.
 
 ## Contributing
 
